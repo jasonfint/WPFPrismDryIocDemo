@@ -1,0 +1,9 @@
+﻿<prism:PrismApplication x:Class="RegionContext.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RegionContext"
+             xmlns:prism="http://prismlibrary.com/">
+    <Application.Resources>
+
+    </Application.Resources>
+</prism:PrismApplication>
